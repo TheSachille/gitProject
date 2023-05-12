@@ -4,3 +4,5 @@ const b = () => {};
 // Another different comment
 var variable = "newVariable";
 var anotherVariable = "newVariable";
+const constant = 24;
+
